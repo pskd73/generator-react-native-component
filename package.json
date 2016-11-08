@@ -1,0 +1,19 @@
+{
+  "name": "generator-react-native-component",
+  "version": "1.0.0",
+  "description": "A simple ReactNative component generator with basic needs",
+  "files": [
+    "app"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Pramod Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}
