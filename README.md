@@ -8,7 +8,7 @@ npm install -g yo generator-react-native-component
 
 To create a component
 ```
-yo generator-react-native-component MyComponent
+yo react-native-component MyComponent
 ```
 It will create a component with following files in the current directory
 ```
@@ -21,6 +21,6 @@ MyComponent
 
 If you want to create the component under some other folder, use the ```--inside components``` option
 ```
-yo generator-react-native-component MyComponent --inside components
+yo react-native-component MyComponent --inside components
 ```
 It will create the component inside ```components``` folder exists in current directory
