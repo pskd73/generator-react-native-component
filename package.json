@@ -1,6 +1,6 @@
 {
   "name": "generator-react-native-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple ReactNative component generator with basic needs",
   "files": [
     "app"
